@@ -4,3 +4,4 @@
 + Walk home 
 + Have lunch 
 + Meeting with the ERS
++ Finish analysis plan
